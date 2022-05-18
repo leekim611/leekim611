@@ -2,7 +2,7 @@
 
 <a href="https://www.instagram.com/ireland_40/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://open.kakao.com/o/slD9pNge"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
-<a href="mailto:akongireng@handong.ac.kr"><img src="https://img.shields.io/badge/akongireng@handong.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:akongireng@handong.ac.kr"><img src="https://img.shields.io/badge/akongireng@handong.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akongireng@handong.ac.kr"/></a>
 <a href="https://velog.io/@leekim611"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ### Hi there 👋 I'm mobile app developer using flutter(android, ios, web)
